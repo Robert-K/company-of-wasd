@@ -1,7 +1,14 @@
+![Icon](coh_wasd.png)
 # Company of WASD
+WASD to move the camera, Q & E to rotate it. Simply run the executable.
 
+Put it in startup if you like, it only acts when the game is focused.
+
+---
 
 ### AutoHotkey is not required to run the executable!
+
+---
 
 ## How does it work?
 While the game is in focus, CoWASD will remap the WASD keys to the arrow keys. Q and E will rotate the camera while pressed.
